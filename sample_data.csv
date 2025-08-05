@@ -1,0 +1,21 @@
+id,name,age,salary,department,is_active,join_date,email
+1,John Smith,30,75000,Engineering,True,2020-01-15,john.smith@company.com
+2,Jane Doe,28,70000,Marketing,True,2019-03-20,jane.doe@company.com
+3,Bob Johnson,35,85000,Engineering,False,2018-11-10,bob.johnson@company.com
+4,Alice Brown,32,72000,Sales,True,2020-06-05,alice.brown@company.com
+5,Charlie Wilson,29,68000,Marketing,True,2021-02-14,charlie.wilson@company.com
+6,Sarah Davis,31,78000,Engineering,True,2019-09-12,sarah.davis@company.com
+7,David Miller,27,65000,Sales,False,2020-08-30,david.miller@company.com
+8,Emma Garcia,33,82000,Engineering,True,2018-12-03,emma.garcia@company.com
+9,Michael Lee,26,62000,Marketing,True,2021-01-25,michael.lee@company.com
+10,Lisa Anderson,34,88000,Engineering,True,2019-05-18,lisa.anderson@company.com
+11,James Taylor,30,75000,Sales,True,2020-03-22,james.taylor@company.com
+12,Amanda White,29,70000,Marketing,False,2021-04-10,amanda.white@company.com
+13,Robert Clark,36,92000,Engineering,True,2018-07-15,robert.clark@company.com
+14,Jennifer Hall,31,76000,Sales,True,2020-11-08,jennifer.hall@company.com
+15,Thomas Moore,28,68000,Marketing,True,2021-06-12,thomas.moore@company.com
+16,Patricia Lewis,33,81000,Engineering,True,2019-02-28,patricia.lewis@company.com
+17,Christopher Scott,27,64000,Sales,False,2020-09-14,christopher.scott@company.com
+18,Jessica Green,32,78000,Engineering,True,2018-10-05,jessica.green@company.com
+19,Daniel Baker,29,69000,Marketing,True,2021-03-17,daniel.baker@company.com
+20,Michelle Adams,35,87000,Engineering,True,2019-08-21,michelle.adams@company.com 
